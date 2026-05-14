@@ -1,0 +1,11 @@
+Reference,Qty,Manufacturer Part Number,Description,Manufacturer,Value,Footprint
+C1,1,MAL215616103E3,"CAP ALUM 10000UF 20% 25V SNAP TH, +-20% tolerance",Vishay,10000uF,Capacitor_THT:CP_Radial_D18.0mm_P7.50mm
+C2,1,ECA-1CM100I,"10 µF 16 V Aluminum Electrolytic Capacitors Radial, Can 2000 Hrs @ 85°C, +-20% tolerance",,10uF,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm
+C3,1,10TWL100KEFC6.3X11,"100 µF 10 V Aluminum Electrolytic Capacitors Radial, Can 2000 Hrs @ 85°C, +-10% tolerance",Rubycon,100uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C4,1,K104K20X7RH53H5,0.1 µF ±10% 100V Ceramic Capacitor X7R Radial,Vishay,0.1uF,Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm
+C5,1,K104K20X7RH53H5,0.1 µF ±10% 100V Ceramic Capacitor X7R Radial,Vishay,0.1uF,Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm
+"D1,D2,D3,D4",4,1N5408,General Purpose Rectifier Diode,Vishay,1N5408,Diode_THT:D_DO-201AD_P15.24mm_Horizontal
+D5,1,1N4007,General Purpose Rectifier Diode,Vishay,1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+F1,1,0215002.MXP,Cartridge Fuses 250V 2A Slo-Blow,Littelfuse,2A Slow-Blow Fuse,Fuse:Fuseholder_Littelfuse_100_series_5x20mm
+"J1,J2",2,6.91E+11,"2 Position Terminal Block Header, Male Pins, Shrouded (2 Side) 0.200"" (5.08mm) Vertical Through Hole",Wurth Elektronik,Conn_01x02_Pin,TerminalBlock:TerminalBlock_bornier-2_P5.08mm
+U1,1,LT1085-5.0,Low Dropout Positive Adjustable Regulators,Linear Technology,LT1085-5.0,Package_TO_SOT_THT:TO-220-3_Vertical
