@@ -80,4 +80,4 @@ See [LICENSE](LICENSE) for details.
 --
 
 ## Author
-- **Sri Harshini N** – [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)
+- **Sri Harshini N** – [LinkedIn]((https://www.linkedin.com/in/sri-harshini-n-439b87212/)) | [GitHub](https://github.com/SriHarshini2701))
