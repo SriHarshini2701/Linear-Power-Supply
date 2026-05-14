@@ -28,6 +28,7 @@ This project is a linear power supply that converts AC input to a regulated DC o
 | `Linearpowersupply_Spiceschematic.png` | LTspice simulation schematic |
 | `Linearpowersupply_Spicewaveform.png` | LTspice simulation waveform output |
 | `gerbers/` | Gerber files ready for manufacturing |
+| `BOM.csv` | Bill of Materials |
 
 ---
 
@@ -61,7 +62,7 @@ This project is a linear power supply that converts AC input to a regulated DC o
 - Trace width calculations based on current requirements
 - Proper decoupling capacitor placement
 - Running simulations in LTspice
-- Selectrion criteria of filter capacitor, rectifier diodes
+- Component Selection, Selectrion criteria of filter capacitor, rectifier diodes
 - Layout constraints, Routing of traces.
 
 ---
