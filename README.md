@@ -76,3 +76,8 @@ Designed for a 2-layer PCB.
 ## License
 This project is licensed under the MIT License. 
 See [LICENSE](LICENSE) for details.
+
+--
+
+## Author
+Sri Harshini N
